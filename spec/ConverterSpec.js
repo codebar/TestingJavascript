@@ -1,8 +1,8 @@
 describe("Cooking Ingredients Converter", function() {
 
   describe("Temperatures", function() {
-    it("farheneit to celcius", function() {
-      var result = convertFahrenheitToCelcius(100);
+    it("Fahrenheit to Celsius", function() {
+      var result = convertFahrenheitToCelsius(100);
 
       expect(result).toEqual('37.8');
     });
