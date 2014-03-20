@@ -1,4 +1,4 @@
 /** Unit Converter **/
-function convertFahrenheitToCelcius(temperature) {
+function convertFahrenheitToCelsius(temperature) {
   //conversion code
 }
